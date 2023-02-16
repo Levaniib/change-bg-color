@@ -1,0 +1,12 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#buton{
+    height: 50px;
+    width: 150px;
+}
